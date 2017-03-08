@@ -4,7 +4,7 @@
 * Deploy every fucking day.
 * Respect each other's time above all else.
 * Automate your life away.
-* Use source by default.
+* Everything is open source by default.
 * Consider the security implications of every decision.
 * Hire for integrity, intelligence, and energy.
 * Promote autonomy, mastery, and purpose.
